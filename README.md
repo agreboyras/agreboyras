@@ -7,36 +7,20 @@ Actualmente sigo desarrollando mis conocimientos en ingeniería de software, bac
 
 ## 🛠️ Tecnologías
 
-**Lenguajes**
-- Java
-- Python
-- JavaScript
-- TypeScript
-- SQL
+**Lenguajes**  
+`Java` · `Python` · `JavaScript` · `TypeScript` · `SQL`
 
-**Backend**
-- Spring Boot
-- FastAPI
-- REST APIs
-- JPA / Hibernate
-- JWT
+**Backend**  
+`Spring Boot` · `FastAPI` · `REST APIs` · `JPA / Hibernate` · `JWT`
 
-**Frontend & Mobile**
-- React
-- React Native
-- Expo
-- HTML
-- CSS
+**Frontend & Mobile**  
+`React` · `React Native` · `Expo` · `HTML` · `CSS`
 
-**Bases de datos**
-- MySQL
-- SQL Server
+**Bases de datos**  
+`MySQL` · `SQL Server`
 
-**Herramientas**
-- Git
-- GitHub
-- Postman
-- Figma
+**Herramientas**  
+`Git` · `GitHub` · `Postman` · `Figma`
 
 ## 🚀 Proyectos
 
